@@ -920,11 +920,11 @@ int main(int argc, char *argv[]){
 
     	                   case SDL_WINDOWEVENT_CLOSE:
 
-                            //event.type = SDL_QUIT;
+                            event.type = SDL_QUIT;
     	                    SDL_PushEvent(&event);
     	              	    SDL_DestroyWindow(win);
     					    SDL_Quit();
-
+                            return 0;
     	                   break;
     	                }
 
