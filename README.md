@@ -11,6 +11,8 @@ SPACE -> decrement force
 J -> play for (range+force setted)
 SIDE BAR (GREEN , YELLOW, RED) -> RIGHT SIDE STATUS FORCE (DRAG mouse under bar for set force)
 START / RESET -> button power off (2 clicks), after choose and click left for player init right for machine init 
+
+archive compiled -> (snooker-64bit.rar) 
 -----------------------------------------
 
 
